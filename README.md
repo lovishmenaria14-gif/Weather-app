@@ -29,8 +29,8 @@ A simple and responsive Weather Application built using **HTML, CSS, and JavaScr
 
 
 ```md
-![Weather App Screenshot](<img width="1920" height="1080" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/f7bc7cc0-94e8-4c7b-adb6-375972274878" />
-)
+![Weather App Screenshot]<img width="818" height="857" alt="Screenshot 2026-06-13 144659" src="https://github.com/user-attachments/assets/d4217800-5bed-4ee2-831b-b7efa0169f30" />
+
 ```
 
 ---
