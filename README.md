@@ -27,10 +27,10 @@ A simple and responsive Weather Application built using **HTML, CSS, and JavaScr
 
 ## 📸 Screenshot
 
-Add your project screenshot here:
 
 ```md
-![Weather App Screenshot](screenshot.png)
+![Weather App Screenshot](<img width="1920" height="1080" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/f7bc7cc0-94e8-4c7b-adb6-375972274878" />
+)
 ```
 
 ---
